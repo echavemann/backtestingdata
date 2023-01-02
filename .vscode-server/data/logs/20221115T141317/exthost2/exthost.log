@@ -1,0 +1,12 @@
+2022-11-15 14:13:27.201 [info] Extension host with pid 2197678 started
+2022-11-15 14:13:27.215 [info] Lock '/home/plm7912/.vscode-server/data/User/workspaceStorage/82d1523fc59c7914641c9d9408849198/vscode.lock': Lock acquired.
+2022-11-15 14:13:27.327 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-11-15 14:13:27.451 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-11-15 14:13:27.451 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-11-15 14:13:27.688 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-11-15 14:13:27.688 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-11-15 14:13:27.689 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-11-15 14:13:27.689 [info] Eager extensions activated
+2022-11-15 14:16:50.294 [info] Extension host terminating: received terminate message from renderer
+2022-11-15 14:16:50.295 [info] Lock '/home/plm7912/.vscode-server/data/User/workspaceStorage/82d1523fc59c7914641c9d9408849198/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2022-11-15 14:16:50.307 [info] Extension host with pid 2197678 exiting with code 0
